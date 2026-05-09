@@ -36,8 +36,6 @@ I enjoy building websites, backend systems, networking tools, and experimenting 
 ## 📫 Connect
 
 - GitHub: https://github.com/YOUR_USERNAME
-- Portfolio: https://yourdomain.com
+- Portfolio: https:/zanidev.site
 
 ---
-
-⭐ Always learning and building.
