@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Zan
+# I'm Zan
 
 💻 Student Developer  
 🚀 Learning Full-Stack Development & Cybersecurity
