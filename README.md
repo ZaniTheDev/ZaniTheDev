@@ -35,7 +35,7 @@ I enjoy building websites, backend systems, networking tools, and experimenting 
 
 ## 📫 Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
+- Email: hamzahtizani@gmail.com
 - Portfolio: https://zanidev.site
 
 ---
