@@ -1,89 +1,43 @@
 # 👋 Hey, I'm Zan
 
-🚀 Student Developer | Backend Learner | Networking Enthusiast | Future Cybersecurity Engineer
+💻 Student Developer  
+🚀 Learning Full-Stack Development & Cybersecurity
 
-I enjoy building things with code, experimenting with technology, and understanding how systems work behind the scenes.
-
-Currently learning:
-- 🌐 Full-stack web development
-- 🐍 Python & JavaScript
-- ⚙️ Backend systems & APIs
-- 🌍 Networking & subnetting
-- 🔐 Cybersecurity fundamentals
-- 🤖 Electronics & Arduino projects
+I enjoy building websites, backend systems, networking tools, and experimenting with electronics.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-- JavaScript
-- Python
-- HTML
-- CSS
-
-### Tools & Technologies
-- React
-- Node.js
-- Git & GitHub
-- Vercel
-- Linux
-- Arduino
-- MikroTik
-- Cisco Networking
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,git,github,linux,vscode,arduino" />
+</p>
 
 ---
 
-# 📌 Current Goals
+## 🚧 Current Focus
 
-- Build real-world full-stack projects
-- Become highly skilled in backend engineering
-- Learn ethical hacking & cybersecurity
-- Understand systems deeply instead of blindly copying code
-- Improve problem-solving and programming fundamentals
-
----
-
-# 🚧 Projects
-
-## 🌐 Portfolio Website
-My personal website hosted with Vercel and connected to my own domain.
-
-## 🤖 Smart Delivery RC Car
-Arduino-based RC car with:
-- Bluetooth control
-- Obstacle detection
-- App integration
-- Delivery bot concept
-
-## 🧮 Networking Tools
-Currently building subnetting and networking-related utilities to strengthen my backend and networking knowledge.
+- Backend Development
+- Networking & Subnetting
+- Cybersecurity
+- API Development
+- React & Node.js
 
 ---
 
-# 📚 Philosophy
+## 📌 Projects
 
-> "Programming is not about memorizing syntax.  
-> It's about understanding systems, solving problems, and building useful things."
-
----
-
-# 📈 Currently Improving
-
-- Async JavaScript
-- Backend architecture
-- API development
-- Databases
-- Networking protocols
-- DevOps basics
+- 🌐 Portfolio Website
+- 🤖 Arduino Smart RC Car
+- 🧮 Networking Tools
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect
 
 - GitHub: https://github.com/YOUR_USERNAME
 - Portfolio: https://yourdomain.com
 
 ---
 
-⭐ Always learning. Always building.
+⭐ Always learning and building.
