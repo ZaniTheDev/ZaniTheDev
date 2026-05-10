@@ -1,7 +1,7 @@
 # I'm Zan
 
-💻 Student Developer  
-🚀 Learning Full-Stack Development & Cybersecurity
+- Student Developer  
+- Learning Full-Stack Development & Cybersecurity
 
 I enjoy building websites, backend systems, networking tools, and experimenting with electronics.
 
