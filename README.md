@@ -15,7 +15,7 @@ I enjoy building websites, backend systems, networking tools, and experimenting 
 
 ---
 
-## 🚧 Current Focus
+##  Current Focus
 
 - Backend Development
 - Networking & Subnetting
@@ -25,7 +25,7 @@ I enjoy building websites, backend systems, networking tools, and experimenting 
 
 ---
 
-## 📌 Projects
+##  Projects
 
 -  Portfolio Website
 -  Arduino Smart RC Car
@@ -33,7 +33,7 @@ I enjoy building websites, backend systems, networking tools, and experimenting 
 
 ---
 
-## 📫 Connect
+##  Connect
 
 - Email: hamzahtizani@gmail.com
 - Portfolio: https://zanidev.site
