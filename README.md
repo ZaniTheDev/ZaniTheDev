@@ -27,9 +27,9 @@ I enjoy building websites, backend systems, networking tools, and experimenting 
 
 ## 📌 Projects
 
-- 🌐 Portfolio Website
-- 🤖 Arduino Smart RC Car
-- 🧮 Networking Tools
+-  Portfolio Website
+-  Arduino Smart RC Car
+-  Networking Tools
 
 ---
 
