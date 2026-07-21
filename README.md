@@ -10,10 +10,9 @@ I enjoy building websites, backend systems, networking tools, and experimenting 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,git,postgres,mongodb,arduino" />
+  <img src="https://skillicons.dev/icons?i=ts,python,react,nodejs,git,postgres,mongodb,arduino" />
 </p>
 
----
 
 ##  Current Focus
 
@@ -23,7 +22,7 @@ I enjoy building websites, backend systems, networking tools, and experimenting 
 - API Development
 - React & Node.js
 
----
+
 
 ##  Connect
 
