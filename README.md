@@ -5,7 +5,6 @@
 
 I enjoy building websites, backend systems, networking tools, and experimenting with electronics.
 
----
 
 ## Tech Stack
 
